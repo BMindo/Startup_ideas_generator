@@ -5,7 +5,7 @@ The program interacts with the user, finds out for what purpose he is willing to
 
 # Prerequisites
 What things you need to install to run the project:
-1. Open file Startup_ideas_generator.ipynb by using google colab notebook: https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
+1. Open file Startup_ideas_generator.ipynb by using google colab notebook: https://colab.research.google.com/notebooks
 2. On colab directory "Files" upload these files: Art.txt, Automotive.txt, Business.txt, Consulting.txt, entertainment.txt to 
 3. For changing variables in this project use Airtable API (airtable.com)
 4. Run the file Startup_ideas_generator.ipynb and use it to generate some cool ideas for you.
