@@ -1,0 +1,12 @@
+Agent
+Ballet studio
+Band leader
+Comedian
+Dance company
+Dancer
+DJ
+Musician
+One-man band
+Producer
+Singer
+Song writer
